@@ -29,15 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>vn.vnpost.dingdong</string>
+				<string>science.xnu.undecimus.2H49924M4A</string>
 				<key>bundle-version</key>
 				<string>1.2</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>platform-identifier</key>
-				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>DingDong-VNPost</string>
+				<string>unc0ver</string>
 			</dict>
 		</dict>
 	</array>
