@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>science.xnu.undecimus.2H49924M4A</string>
+				<string>science.xnu.undecimus</string>
 				<key>bundle-version</key>
 				<string>1.2</string>
 				<key>kind</key>
