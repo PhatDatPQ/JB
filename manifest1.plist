@@ -13,33 +13,17 @@
 					<key>url</key>
 					<string>https://jbnice.cf/unc0ver_Release_6.1.2.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://ipa-apps.me/Images/unc0ver.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>tv.shou.airshou.hello</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>Unc0ver</string>
+				<string>science.xnu.undecimus</string>
 				<key>bundle-version</key>
-				<string>7.4.1</string>
+				<string>6.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Unc0ver</string>
+				<string>unc0ver</string>
 			</dict>
 		</dict>
 	</array>
